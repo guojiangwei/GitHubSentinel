@@ -1,0 +1,11 @@
+{
+    "github_token": "your-github-token",
+    "notification_config": {
+        "email": "user@example.com",
+        "slack_webhook": "https://hooks.slack.com/services/..."
+    },
+    "schedule": {
+        "frequency": "daily",
+        "time": "12:00"
+    }
+}
